@@ -1,4 +1,4 @@
-ale
-bos
-gtn
-kgh
+ale|allegro
+bos|boś
+gtn|getin holding
+kgh|kghm
