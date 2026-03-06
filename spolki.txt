@@ -2,3 +2,4 @@ ale|allegro
 bos|boś
 gtn|getin holding
 kgh|kghm
+dnp|dino.pl
